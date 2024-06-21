@@ -1,6 +1,6 @@
 # Dog or Horse
 
-<img src="midia_test\imgs_results\i3.png" alt="" />
+<img src="media_test\imgs_results\i3.png" alt="" />
 
 Please review the results in the `media_test` folder and explore the metric demonstration notebooks in the `notebooks` folder.
 
