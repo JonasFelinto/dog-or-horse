@@ -1,0 +1,7 @@
+names:
+  0: Dog
+  1: Horse
+path: C:\Users\Jonas\Documents\projects\verifymydoghorse\data\yolo_dataset
+test: .\images\test\
+train: .\images\train\
+validation: .\images\validation\
